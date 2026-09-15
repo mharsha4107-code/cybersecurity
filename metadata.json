@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield – Mobile Cyber Security Expert System",
+  "description": "Academic Prototype Rule-Based Expert System for evaluating suspected mobile phone security incidents, calculating risk severity, and generating structured incident reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
